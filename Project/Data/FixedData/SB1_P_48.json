@@ -1,0 +1,81 @@
+{"name":"greenbarrel_voxels_02 (4)","timestamp":48.29657,"tag":[1.0,1.0,1.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"Robot4"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":72.9297256,"tag":[0.0,0.0,1.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (5)","timestamp":151.05481,"tag":[0.0,1.0,0.0],"hazardLevels":[2.05294228,8.446898,19.0474033],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":234.022217,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot2"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":234.203156,"tag":[0.0,1.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"Robot2"}
+{"name":"power_supply_voxels_02 (2)","timestamp":244.907532,"tag":[0.0,1.0,0.0],"hazardLevels":[20.0897923,3.34181,2.89327073],"rtlObject":"Robot2"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":247.712891,"tag":[0.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"Robot2"}
+{"name":"greenbarrel_voxels_02","timestamp":248.046158,"tag":[0.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot2"}
+{"name":"power_supply_voxels_02 (2)","timestamp":248.567841,"tag":[0.0,0.0,0.0],"hazardLevels":[20.0897923,3.34181,2.89327073],"rtlObject":"Robot2"}
+{"name":"greenbarrel_voxels_02","timestamp":277.216248,"tag":[0.0,0.0,1.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot2"}
+{"name":"power_supply_voxels_02","timestamp":284.136383,"tag":[1.0,0.0,0.0],"hazardLevels":[15.1295223,4.752368,4.37114859],"rtlObject":"Robot2"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":296.137482,"tag":[1.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02","timestamp":297.803772,"tag":[1.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02","timestamp":307.726074,"tag":[0.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":307.992432,"tag":[0.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":329.773,"tag":[0.0,1.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":335.5009,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"box_pipes_voxels_02 (1)","timestamp":367.425446,"tag":[0.0,0.0,1.0],"hazardLevels":[5.78931046,21.5877743,8.854729],"rtlObject":"self"}
+{"name":"cablereel_voxels_02 (2)","timestamp":368.091125,"tag":[0.0,0.0,1.0],"hazardLevels":[4.591873,21.3092957,7.61759043],"rtlObject":"self"}
+{"name":"cablereel_voxels_02 (2)","timestamp":368.690643,"tag":[0.0,0.0,1.0],"hazardLevels":[4.591873,21.3092957,7.61759043],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":422.043457,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":423.759155,"tag":[0.0,1.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":424.136749,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":426.025024,"tag":[0.0,1.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":432.777344,"tag":[0.0,1.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"ridged_pipe_voxels_02","timestamp":443.705383,"tag":[0.0,1.0,0.0],"hazardLevels":[2.95060921,24.8473263,2.89399338],"rtlObject":"self"}
+{"name":"ridged_pipe_voxels_02","timestamp":444.79425,"tag":[1.0,1.0,0.0],"hazardLevels":[2.95060921,24.8473263,2.89399338],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":508.3583,"tag":[1.0,0.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":508.781036,"tag":[1.0,0.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":509.0917,"tag":[1.0,0.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":510.6689,"tag":[1.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"Robot1"}
+{"name":"greenbarrel_voxels_02","timestamp":511.6692,"tag":[1.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot1"}
+{"name":"wall_and_pipe_voxels_02 (2)","timestamp":558.428345,"tag":[1.0,0.0,0.0],"hazardLevels":[4.84097052,7.041435,20.4955711],"rtlObject":"self"}
+{"name":"wall_and_pipe_voxels_02 (2)","timestamp":559.556763,"tag":[1.0,0.0,0.0],"hazardLevels":[4.84097052,7.041435,20.4955711],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (4)","timestamp":559.9566,"tag":[1.0,0.0,0.0],"hazardLevels":[6.33896542,10.4522257,16.7515259],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (2)","timestamp":560.223145,"tag":[1.0,0.0,0.0],"hazardLevels":[10.227829,9.067684,21.144762],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (3)","timestamp":560.79364,"tag":[1.0,0.0,0.0],"hazardLevels":[9.140886,11.31409,15.7996931],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (3)","timestamp":561.3279,"tag":[1.0,0.0,0.0],"hazardLevels":[9.140886,11.31409,15.7996931],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (4)","timestamp":562.393066,"tag":[1.0,0.0,0.0],"hazardLevels":[6.33896542,10.4522257,16.7515259],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (2)","timestamp":563.859,"tag":[1.0,0.0,0.0],"hazardLevels":[10.227829,9.067684,21.144762],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":574.4985,"tag":[0.0,1.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":575.009338,"tag":[0.0,1.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":575.320435,"tag":[0.0,1.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":576.5862,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":577.3845,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":580.5626,"tag":[1.0,1.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":580.9394,"tag":[1.0,1.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":581.295,"tag":[1.0,1.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":581.762146,"tag":[1.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":582.495361,"tag":[1.0,1.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":598.756,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"metal_pipes1_voxels_02","timestamp":610.795654,"tag":[0.0,0.0,1.0],"hazardLevels":[19.261776,13.358552,3.174555],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":618.1321,"tag":[1.0,0.0,1.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":619.502747,"tag":[0.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":629.38446,"tag":[1.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":633.930847,"tag":[1.0,0.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":649.970032,"tag":[0.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (3)","timestamp":697.770447,"tag":[0.0,0.0,0.0],"hazardLevels":[9.140886,11.31409,15.7996931],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (4)","timestamp":698.292969,"tag":[0.0,0.0,0.0],"hazardLevels":[6.33896542,10.4522257,16.7515259],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (4)","timestamp":698.8891,"tag":[0.0,0.0,0.0],"hazardLevels":[6.33896542,10.4522257,16.7515259],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (2)","timestamp":704.102356,"tag":[0.0,0.0,0.0],"hazardLevels":[10.227829,9.067684,21.144762],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (2)","timestamp":706.0138,"tag":[0.0,0.0,0.0],"hazardLevels":[10.227829,9.067684,21.144762],"rtlObject":"self"}
+{"name":"singlebrick_voxels_02 (3)","timestamp":706.9242,"tag":[0.0,0.0,0.0],"hazardLevels":[9.140886,11.31409,15.7996931],"rtlObject":"self"}
+{"name":"wall_and_pipe_voxels_02 (2)","timestamp":711.89,"tag":[0.0,0.0,0.0],"hazardLevels":[4.84097052,7.041435,20.4955711],"rtlObject":"self"}
+{"name":"wall_and_pipe_voxels_02 (2)","timestamp":715.5544,"tag":[0.0,0.0,0.0],"hazardLevels":[4.84097052,7.041435,20.4955711],"rtlObject":"self"}
+{"name":"wall_and_pipe_voxels_02 (2)","timestamp":717.754456,"tag":[1.0,0.0,0.0],"hazardLevels":[4.84097052,7.041435,20.4955711],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":754.0494,"tag":[1.0,1.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":754.405457,"tag":[1.0,1.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":759.3364,"tag":[0.0,0.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"cablereel_voxels_02 (2)","timestamp":773.1412,"tag":[0.0,1.0,1.0],"hazardLevels":[4.591873,21.3092957,7.61759043],"rtlObject":"self"}
+{"name":"box_pipes_voxels_02 (1)","timestamp":778.4475,"tag":[0.0,0.0,0.0],"hazardLevels":[5.78931046,21.5877743,8.854729],"rtlObject":"self"}
+{"name":"cablereel_voxels_02 (2)","timestamp":786.4923,"tag":[1.0,0.0,1.0],"hazardLevels":[4.591873,21.3092957,7.61759043],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":808.5286,"tag":[1.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"Robot4"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":920.9846,"tag":[0.0,0.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":921.584045,"tag":[0.0,0.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (4)","timestamp":922.0505,"tag":[0.0,0.0,0.0],"hazardLevels":[16.91578,3.24976039,13.6743507],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (1)","timestamp":923.139,"tag":[0.0,0.0,0.0],"hazardLevels":[13.331007,2.06024861,17.4727554],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":923.6502,"tag":[0.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (2)","timestamp":931.9019,"tag":[0.0,0.0,0.0],"hazardLevels":[13.506341,2.23469257,13.5246992],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02 (3)","timestamp":932.790344,"tag":[0.0,0.0,0.0],"hazardLevels":[13.370575,0.7223574,15.8281422],"rtlObject":"self"}
+{"name":"greenbarrel_voxels_02","timestamp":939.623,"tag":[0.0,0.0,0.0],"hazardLevels":[16.91855,2.88776326,14.98062],"rtlObject":"self"}
